@@ -5,3 +5,5 @@ This is a list of small problems in Go, inspired by the OCaml excersises [found 
 ## Excersises
 
 1. [Tail of List](/cmd/tailoflist/README.md)
+1. [Last Two Elements of a List](/cmd/lasttwooflist/README.md)
+
