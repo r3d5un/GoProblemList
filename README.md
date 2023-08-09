@@ -9,4 +9,5 @@ This is a list of small problems in Go, inspired by the OCaml excersises [found 
 3. [N'th Element of a List](/cmd/nthelementofalist/README.md)
 4. [Length of List](/cmd/lengthoflist/README.md)
 5. [Reverse a List](/cmd/reverselist/README.md)
+6. [Palindrome](/cmd/palindrome/README.md)
 
