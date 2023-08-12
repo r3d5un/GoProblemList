@@ -1,6 +1,6 @@
 # Go Problem List
 
-This is a list of small problems in Go, inspired by the OCaml excersises [found here](https://ocaml.org/problems).
+This is a list of small problems in Go, originally inspired by the OCaml excersises [found here](https://ocaml.org/problems), but also includes puzzles from [Codewars](https://www.codewars.com/dashboard) and small problems from my personal experience.
 
 ## Excersises
 
