@@ -16,4 +16,6 @@ This is a list of small problems in Go, originally inspired by the OCaml excersi
 4. [Length of List](/cmd/lengthoflist/README.md)
 5. [Reverse a List](/cmd/reverselist/README.md)
 6. [Palindrome](/cmd/palindrome/README.md)
+7. [Eliminate Duplicates](/cmd/eliminateDuplicates/README.md)
+8. [Duplicate Elements in a List](/cmd/DuplicateElementsInList/README.md)
 
