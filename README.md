@@ -18,4 +18,4 @@ This is a list of small problems in Go, originally inspired by the OCaml excersi
 6. [Palindrome](/cmd/palindrome/README.md)
 7. [Eliminate Duplicates](/cmd/eliminateDuplicates/README.md)
 8. [Duplicate Elements in a List](/cmd/DuplicateElementsInList/README.md)
-
+9. [Replicate the Elements of a List a Given Number of Times](/cmd/ReplicateNumberOfTimes/README.md)
